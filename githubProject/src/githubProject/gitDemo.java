@@ -23,6 +23,11 @@ public class gitDemo {
 		
 		
 		System.out.println("hello GitHub");
+		
+		gitDemo gd=new gitDemo();
+		gd.m1();
+		gd.m2();
+		gd.m3();
 	}
 
 }
